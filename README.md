@@ -1,5 +1,5 @@
 
-![Web Development](https://github.com/EmilieFlores/EmilieFlores/blob/main/myBanner.PNG)
+![Web Development]()
 
 
 <p align="center">
