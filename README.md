@@ -17,3 +17,9 @@ Hi there, 👋🏽  I'm a full stack software engineer. Feel free to stay awhile
     <a href="https://twitter.com/Emilie010101010_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
     <a href="https://www.codewars.com/users/EmilieFlores"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
   </p>
+ <!-- Stats -->
+  <h1 align="center">Code Stats</h1>
+<div align="center">
+ <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=EmilieFlores&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
+</div>
+</br>
