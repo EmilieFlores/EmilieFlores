@@ -1,6 +1,6 @@
-<p align="center">
+
 ![Web Development](https://github.com/EmilieFlores/EmilieFlores/blob/main/myBanner.PNG)
- </p>
+
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+Emilie+Flores;Software+Engineer">
