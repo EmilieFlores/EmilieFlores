@@ -23,3 +23,14 @@ Hi there, 👋🏽  I'm a full stack software engineer. Feel free to stay awhile
  <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=EmilieFlores&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
 </div>
 </br>
+
+<h1 align="center">Technologies</h1>
+   <p align="center">
+      <img src="https://img.shields.io/badge/HTML5-164C78?style=plastic&logo=html5" height=25>
+      <img src="https://img.shields.io/badge/CSS3-164C78?style=plastic&logo=css3&logoColor=2388C3" height=25>
+      <img src="https://img.shields.io/badge/JavaScript-164C78?style=plastic&logo=javascript" height=25>
+      <img src="https://img.shields.io/badge/Node.js-164C78?style=plastic&logo=nodedotjs" height=25>
+      <img src="https://img.shields.io/badge/React-164C78?style=plastic&logo=react" height=25>
+      <img src="https://img.shields.io/badge/Express.js-164C78?style=plastic&logo=express&logoColor=000000" height=25>
+      <img src="https://img.shields.io/badge/MongoDB-164C78?style=plastic&logo=mongodb" height=25>
+    </p>
