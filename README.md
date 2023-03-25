@@ -33,6 +33,7 @@ Hi there, 👋🏽  I'm a full stack software engineer. Feel free to stay awhile
       <img src="https://img.shields.io/badge/React-164C78?style=plastic&logo=react" height=25>
       <img src="https://img.shields.io/badge/Express.js-164C78?style=plastic&logo=express&logoColor=000000" height=25>
       <img src="https://img.shields.io/badge/MongoDB-164C78?style=plastic&logo=mongodb" height=25>
+      <img src="https://img.shields.io/badge/Visual_Studio-164C78?style=plastic&logo=visual%20studio&logoColor=007ACC" height=25>
     </p>
     <!--Projects -->
     <h1 align="center">Projects</h1>
